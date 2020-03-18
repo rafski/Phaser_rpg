@@ -1,6 +1,6 @@
-class UIScene extends Phaser.Scene{
+class UiScene extends Phaser.Scene{
     constructor() {
-        super('UI');
+        super('Ui');
     }
 
     preload() {
